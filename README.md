@@ -48,6 +48,10 @@ A free and open source Discord bot for moderation purposes.<br />
 <a href="https://sourceforge.net/projects/sudobot/files/latest/download"><img alt="Download from SourceForge" src="https://a.fsdn.com/con/app/sf-download-button" width="276" height="48" srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
 </p> -->
 
+## ❗ Not original project
+
+You are currently looking by a modified version of SudoBot by me (gaxolotl). Please visit the original repository and support the developers! I am required to upload my modified code because of the license.
+
 ## ❗ Need Contributors
 
 This project needs more contributors. Please look at the [Todos](https://github.com/onesoft-sudo/sudobot/blob/main/TODO.md) to see what you can do to help us. Of course you can add new features and/or fix/improve something that isn't listed in the todos! We'll be really thankful if you contribute.
