@@ -311,6 +311,10 @@
                                             "masskick": {
                                                 "type": "integer",
                                                 "default": 5
+                                            },
+                                            "reaction_clear": {
+                                                "type": "integer",
+                                                "default": 0
                                             }
                                         },
                                         "additionalProperties": false,
@@ -1752,6 +1756,7 @@
                                                                     "message_delete",
                                                                     "message_update",
                                                                     "message_delete_bulk",
+                                                                    "message_reaction_clear",
                                                                     "member_ban_add",
                                                                     "member_mass_ban",
                                                                     "member_mass_unban",

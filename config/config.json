@@ -1,4 +1,132 @@
 {
     "$schema": "https://raw.githubusercontent.com/onesoft-sudo/sudobot/main/config/schema/config.json",
-    "guild_id": {}
+    "guild_id": {
+        "prefix": "-",
+        "debug_mode": false,
+        "commands": {
+            "mention_prefix": true,
+            "moderation_command_behavior": "default",
+            "rerun_on_edit": false,
+            "channels": {
+                "list": [],
+                "mode": "exclude"
+            },
+            "disabled_commands": [],
+            "respond_on_precondition_fail": true,
+            "troll_command_immune_users": []
+        },
+        "permissions": {
+            "check_discord_permissions": "always"
+        },
+        "infractions": {
+            "send_ids_to_user": false,
+            "dm_fallback": "none",
+            "dm_fallback_channel_expires_in": 604800000,
+            "reason_templates": {},
+            "reason_template_placeholder_wrapper": "{{%name%}}",
+            "points": {
+                "warning": 1,
+                "mute": 3,
+                "timeout": 3,
+                "kick": 5,
+                "ban": 10,
+                "tempban": 8,
+                "softban": 7,
+                "unban": 0,
+                "note": 0,
+                "clear": 0,
+                "role": 0,
+                "mod_message": 2,
+                "massban": 10,
+                "masskick": 5,
+                "reaction_clear": 0
+            }
+        }
+    },
+    "1324747396206563358": {
+        "prefix": "-",
+        "debug_mode": false,
+        "commands": {
+            "mention_prefix": true,
+            "moderation_command_behavior": "default",
+            "rerun_on_edit": false,
+            "channels": {
+                "list": [],
+                "mode": "exclude"
+            },
+            "disabled_commands": [],
+            "respond_on_precondition_fail": true,
+            "troll_command_immune_users": []
+        },
+        "permissions": {
+            "check_discord_permissions": "always"
+        },
+        "infractions": {
+            "send_ids_to_user": false,
+            "dm_fallback": "none",
+            "dm_fallback_channel_expires_in": 604800000,
+            "reason_templates": {},
+            "reason_template_placeholder_wrapper": "{{%name%}}",
+            "points": {
+                "warning": 1,
+                "mute": 3,
+                "timeout": 3,
+                "kick": 5,
+                "ban": 10,
+                "tempban": 8,
+                "softban": 7,
+                "unban": 0,
+                "note": 0,
+                "clear": 0,
+                "role": 0,
+                "mod_message": 2,
+                "massban": 10,
+                "masskick": 5,
+                "reaction_clear": 0
+            }
+        }
+    },
+    "1328258474219540501": {
+        "prefix": ">",
+        "debug_mode": false,
+        "commands": {
+            "mention_prefix": true,
+            "moderation_command_behavior": "default",
+            "rerun_on_edit": false,
+            "channels": {
+                "list": [],
+                "mode": "exclude"
+            },
+            "disabled_commands": [],
+            "respond_on_precondition_fail": true,
+            "troll_command_immune_users": []
+        },
+        "permissions": {
+            "check_discord_permissions": "always"
+        },
+        "infractions": {
+            "send_ids_to_user": false,
+            "dm_fallback": "none",
+            "dm_fallback_channel_expires_in": 604800000,
+            "reason_templates": {},
+            "reason_template_placeholder_wrapper": "{{%name%}}",
+            "points": {
+                "warning": 1,
+                "mute": 3,
+                "timeout": 3,
+                "kick": 5,
+                "ban": 10,
+                "tempban": 8,
+                "softban": 7,
+                "unban": 0,
+                "note": 0,
+                "clear": 0,
+                "role": 0,
+                "mod_message": 2,
+                "massban": 10,
+                "masskick": 5,
+                "reaction_clear": 0
+            }
+        }
+    }
 }
